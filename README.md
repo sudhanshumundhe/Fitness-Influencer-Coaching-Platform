@@ -186,5 +186,5 @@ Stores payment information related to client subscriptions.
 
 This ER diagram demonstrates how a database can support an online fitness coaching platform. It ensures efficient management of clients, plans, sessions, progress tracking, and payments while supporting both one-off consultations and long-term coaching programs.
 
-### **Author
-**Sudhanshu Mundhe
+### **Author **
+**Sudhanshu Mundhe **
